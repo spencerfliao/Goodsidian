@@ -1,4 +1,6 @@
 # Goodsidian
-Goodsidian takes books on your Goodreads shelves and formats them to notes in Obsidian so that you could showcase/collect/notate them the way you want.
-This project was inspired by Joschua's https://github.com/selfire1/goodsidian
-I couldn't get the bash code to run though, so I wrote my own python version of it. Hope it can benefit anyone who loves reading, note-making, and hoarding as much as I do.
+
+Goodsidian is a tool designed to transform the books from your Goodreads shelves into neatly formatted notes in Obsidian, allowing you to showcase, collect, and annotate them in your desired style.
+This project draws inspiration from Joschua's original implementation, which can be found at Joschua's Goodsidian. Unfortunately, I encountered issues with the bash code provided and was unable to execute it. So I developed my own version in Python.
+
+I hope this tool proves valuable to fellow enthusiasts of reading, note-taking, and collecting.
